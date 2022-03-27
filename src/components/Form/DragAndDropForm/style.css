@@ -1,0 +1,34 @@
+.form__dragndrop{
+
+}
+
+.form__dragndrop_active #dropZone{
+    background: #aaffaa;
+}
+
+#dropZone {
+    color: #555;
+    font-size: 18px;
+    text-align: center;
+    width: 400px;
+    padding: 100px 0;
+    margin: 20px auto;
+    background: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#dropZone.hover {
+    background: #ddd;
+    border-color: #aaa;
+}
+
+#dropZone.error {
+    background: #faa;
+    border-color: #f00;
+}
+
+#dropZone.drop {
+    background: #afa;
+    border-color: #0f0;
+}

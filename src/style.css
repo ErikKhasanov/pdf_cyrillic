@@ -1,0 +1,11 @@
+.react-pdf__Page{
+    display: inline-block;
+}
+
+mark.cyrillic{
+    background: yellow;
+}
+
+mark.latin{
+    background: aqua;
+}

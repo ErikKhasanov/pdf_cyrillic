@@ -1,0 +1,4 @@
+.form__upload{
+    display: inline-flex;
+    flex-direction: column;
+}
