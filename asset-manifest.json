@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pdf_cyrillic/static/css/main.d4ef27ae.css",
-    "main.js": "/pdf_cyrillic/static/js/main.bf59b5bc.js",
+    "main.js": "/pdf_cyrillic/static/js/main.d84c7155.js",
     "static/js/787.9d9f7c41.chunk.js": "/pdf_cyrillic/static/js/787.9d9f7c41.chunk.js",
     "index.html": "/pdf_cyrillic/index.html",
     "main.d4ef27ae.css.map": "/pdf_cyrillic/static/css/main.d4ef27ae.css.map",
-    "main.bf59b5bc.js.map": "/pdf_cyrillic/static/js/main.bf59b5bc.js.map",
+    "main.d84c7155.js.map": "/pdf_cyrillic/static/js/main.d84c7155.js.map",
     "787.9d9f7c41.chunk.js.map": "/pdf_cyrillic/static/js/787.9d9f7c41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ef27ae.css",
-    "static/js/main.bf59b5bc.js"
+    "static/js/main.d84c7155.js"
   ]
 }
